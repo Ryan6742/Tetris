@@ -1,0 +1,5 @@
+A simple Tetris game I made during a few snowy days.
+
+Programmed in Python. Requires Pygame.
+
+After some unglamorous edits, I managed to break the high-score options and am now pretty much unwilling to fix the problem. 
